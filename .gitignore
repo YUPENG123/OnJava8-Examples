@@ -109,3 +109,7 @@ buildSrc/
 /threads/primes.txt
 _*
 config.py
+
+
+.devcontainer/
+.github/
